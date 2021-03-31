@@ -27,7 +27,7 @@ Desktop.ini
 
 # Visual Studio / MonoDevelop generated
 # =====================================
-Exported[Oo]bj/
+ExportedObj/
 *.userprefs
 *.csproj
 *.pidb
