@@ -1,0 +1,45 @@
+## FOLDERS
+.vscode
+Logs/
+UserSettings
+ProjectSettings
+Library
+Logs
+Temp
+
+# UNITY FILES
+*.meta
+
+## C#
+*.csproj
+*.sln
+
+# OS Generated
+# ============
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Visual Studio / MonoDevelop generated
+# =====================================
+Exported[Oo]bj/
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# Unity generated
+# ===============
+Obj/
+Build
+sysinfo.txt
+*.stackdump

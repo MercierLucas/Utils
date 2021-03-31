@@ -1,0 +1,20 @@
+# Vscode
+.vscode
+.idea
+
+# Build and cache
+*.pyc
+__pycache__/
+
+# Models weights
+*.pth
+*.w5
+
+# Exp
+exp/
+experiments/
+
+# Resources
+*.mp4
+*.zip
+output/
